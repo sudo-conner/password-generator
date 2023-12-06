@@ -15,7 +15,7 @@ In today's interconnected world, ensuring the security of digital information is
 
 <b>Thank you for exploring the Random Password Generator repository!</b>
 
-<h2> 🤳 Connect with me:</h2>
+<h2>Connect with me:</h2>
 
 [<img align="left" alt="ConnerMaris | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
