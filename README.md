@@ -7,11 +7,11 @@ In today's interconnected world, ensuring the security of digital information is
 <b>Table of Contents</b>
 
 - <b>Read Me (That's this page!)</b>
-  - [readme.md](https://github.com)
+  - [readme.md](https://github.com/sudo-conner/password-generator/blob/df6675f1f39cca1ad9340a89ee459b15b691ea11/README.md)
 - <b>Random Password Generator Write Up (PDF explaining the script)</b>
-  - [Python Random Password Generator.pdf](https://github.com)
+  - [Python Random Password Generator.pdf](https://github.com/sudo-conner/password-generator/blob/df6675f1f39cca1ad9340a89ee459b15b691ea11/Python%20Random%20Password%20Generator.pdf)
 - <b>Password Generator (File containing the python code)</b>
-  - [passwordGenerator.py](https://github.com)
+  - [passwordGenerator.py](https://github.com/sudo-conner/password-generator/blob/df6675f1f39cca1ad9340a89ee459b15b691ea11/passwordGenerator.py)
 
 <b>Thank you for exploring the Random Password Generator repository!</b>
 
